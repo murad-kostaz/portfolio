@@ -23,4 +23,4 @@ Jul 2020 - Present
 ### Battlefield Rivals 3D - Multiplayer
 - Development in Progress
 
-[image](/assets/img/bunnyhop_thumbnail.png)
+![image](/assets/img/bunnyhop_thumbnail.png)
