@@ -17,4 +17,7 @@ Jul 2020 - Present
 
 ## Game Portfolio
 
-([BUNNYHOP 2D (Beta)] (https://play.google.com/store/apps/details?id=com.KostazStudio.BUNNYHOP2D&hl=en_IN&gl=US))
+### ([BUNNYHOP 2D](https://play.google.com/store/apps/details?id=com.KostazStudio.BUNNYHOP2D&hl=en_IN&gl=US))
+
+### Battlefield Rivals 3D - Multiplayer
+     - Development in Progress
