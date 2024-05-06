@@ -1,4 +1,4 @@
-
+![image](https://github.com/murad-kostaz/portfolio/assets/168543184/a3655a55-d9f8-4fa5-9eae-bbd0a0b86de1)
 
 #### Technical Skills: Unity, C#, Python, Photoshop
 
@@ -18,8 +18,9 @@ Jul 2020 - Present
 ## Game Portfolio
 
 ### [BUNNYHOP 2D](https://play.google.com/store/apps/details?id=com.KostazStudio.BUNNYHOP2D&hl=en_IN&gl=US)
-![image](/assets/img/bunnyhop-thumbnail2.png)
+![image](/assets/img/bunnyhop-thumb-menu.png)
 ![image](/assets/img/bunnyhop_thumbnail.png)
+![image](/assets/img/bunnyhop-thumb-gameover.png)
 - BUNNYHOP 2D introduces players to an exciting world where precision jumps and thrilling challenges await. In this beta version, you'll guide a determined bunny through a maze of obstacles, testing your skills and reflexes to the limit. With each carefully executed jump, you'll inch closer to your goal, immersed in an adrenaline-fueled adventure that rewards both precision and perseverance.
     
 ### Battlefield Rivals 3D - Multiplayer
