@@ -1,5 +1,3 @@
-![image](https://github.com/murad-kostaz/portfolio/assets/168543184/a3655a55-d9f8-4fa5-9eae-bbd0a0b86de1)
-
 #### Technical Skills: Unity, C#, Python, Photoshop
 
 ## Experience
