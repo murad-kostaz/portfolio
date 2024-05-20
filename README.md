@@ -19,7 +19,7 @@ Jul 2020 - Present
 ![image](/assets/img/bunnyhop-thumb-menu.png)
 ![image](/assets/img/bunnyhop_thumb1.jpg)
 ![image](/assets/img/bunnyhop_gameover.jpeg)
-- BUNNYHOP 2D introduces players to an exciting world where precision jumps and thrilling challenges await. In this beta version, you'll guide a determined bunny through a maze of obstacles, testing your skills and reflexes to the limit. With each carefully executed jump, you'll inch closer to your goal, immersed in an adrenaline-fueled adventure that rewards both precision and perseverance.
+- BUNNYHOP 2D introduces players to an exciting world where precision jumps and thrilling challenges await. In this version, you'll guide a determined bunny through a maze of obstacles, testing your skills and reflexes to the limit. With each carefully executed jump, you'll inch closer to your goal, immersed in an adrenaline-fueled adventure that rewards both precision and perseverance.
     
 ### Battlefield Rivals 3D - Multiplayer
 - Development in Progress
