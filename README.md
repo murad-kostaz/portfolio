@@ -16,6 +16,7 @@ Jul 2020 - Present
 ## Game Portfolio
 
 ### [BUNNYHOP 2D](https://play.google.com/store/apps/details?id=com.KostazStudio.BUNNYHOPv2)
+![video] https://youtu.be/ii1MNPhhDBc)
 ![image](/assets/img/bunnyhop-thumb-menu.png)
 ![image](/assets/img/bunnyhop_thumb1.jpg)
 ![image](/assets/img/bunnyhop_gameover.jpeg)
