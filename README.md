@@ -1,4 +1,4 @@
-#### Technical Skills: Unity, C#, Python, Photoshop
+#### Technical Skills: Unity | C# | Python | Photoshop | Blender
 
 ## Experience
 
@@ -16,9 +16,9 @@ Jul 2020 - Present
 ## Game Portfolio
 
 ### [BUNNYHOP 2D](https://play.google.com/store/apps/details?id=com.KostazStudio.BUNNYHOPv2) 
-([Demo Video-YouTube](https://youtu.be/ii1MNPhhDBc))
-![image](/assets/img/bunnyhop-thumb-menu.png)
-![image](/assets/img/bunnyhop_thumb1.jpg)
+([Demo Video-YouTube]([https://youtu.be/QJ-eTUWRbHY]))
+![image](/assets/img/bunnyhop-mainmenu-thumb.jpgg)
+![image](/assets/img/bunnyhop-thumb-gameplay.png)
 ![image](/assets/img/bunnyhop_gameover.jpeg)
 - BUNNYHOP 2D introduces players to an exciting world where precision jumps and thrilling challenges await. In this version, you'll guide a determined bunny through a maze of obstacles, testing your skills and reflexes to the limit. With each carefully executed jump, you'll inch closer to your goal, immersed in an adrenaline-fueled adventure that rewards both precision and perseverance.
     
