@@ -17,9 +17,9 @@ Jul 2020 - Present
 
 ### [BUNNYHOP 2D](https://play.google.com/store/apps/details?id=com.KostazStudio.BUNNYHOPv2) 
 ([Demo Video-YouTube]([https://youtu.be/QJ-eTUWRbHY]))
+([Menu/UI Video-YouTube]([https://youtu.be/kekCE9aYtYk]))
 ![image](/assets/img/bunnyhop-mainmenu-thumb.jpgg)
 ![image](/assets/img/bunnyhop-thumb-gameplay.png)
-![image](/assets/img/bunnyhop-thumb-death.png)
 - BUNNYHOP 2D introduces players to an exciting world where precision jumps and thrilling challenges await. In this version, you'll guide a determined bunny through a maze of obstacles, testing your skills and reflexes to the limit. With each carefully executed jump, you'll inch closer to your goal, immersed in an adrenaline-fueled adventure that rewards both precision and perseverance.
     
 ### Battlefield Rivals 3D - Multiplayer
