@@ -26,7 +26,7 @@ Jul 2020 - Present
 ![image](/assets/img/lofy_ss1.png)
 ![image](/assets/img/lofy_ss2.png)
 ![image](/assets/img/lofy_ss3.png)
--Embark on a sky-high adventure in LOFTY: Skybound Escape! Maneuver through a series of obstacles, collect coins, and soar to new heights. Challenge your reflexes in this exciting 2D hypercasual game.
+- Embark on a sky-high adventure in LOFTY: Skybound Escape! Maneuver through a series of obstacles, collect coins, and soar to new heights. Challenge your reflexes in this exciting 2D hypercasual game.
 
 ### Battlefield Rivals 3D - Multiplayer
 ![image](/assets/img/battlefieldrivals_progress.png)
