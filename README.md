@@ -23,7 +23,9 @@ Jul 2020 - Present
 - BUNNYHOP 2D introduces players to an exciting world where precision jumps and thrilling challenges await. In this version, you'll guide a determined bunny through a maze of obstacles, testing your skills and reflexes to the limit. With each carefully executed jump, you'll inch closer to your goal, immersed in an adrenaline-fueled adventure that rewards both precision and perseverance.
 
 ### LOFTY: Skybound Escape
-
+![image](/assets/img/lofy_ss1.png)
+![image](/assets/img/lofy_ss2.png)
+![image](/assets/img/lofy_ss3.png)
 -Embark on a sky-high adventure in LOFTY: Skybound Escape! Maneuver through a series of obstacles, collect coins, and soar to new heights. Challenge your reflexes in this exciting 2D hypercasual game.
 
 ### Battlefield Rivals 3D - Multiplayer
