@@ -15,8 +15,9 @@ Jul 2020 - Present
 
 ## Game Portfolio
 
-### [BUNNYHOP 2D](https://play.google.com/store/apps/details?id=com.KostazStudio.BUNNYHOPv2) 
-[Browser Version](https://kostazgamedev.itch.io/bunnyhop-2d)
+### [BUNNYHOP 2D]
+[Android Version - https://play.google.com/store/apps/details?id=com.KostazStudio.BUNNYHOPv2](https://play.google.com/store/apps/details?id=com.KostazStudio.BUNNYHOPv2) 
+[HTML/Browser Version - https://kostazgamedev.itch.io/bunnyhop-2d](https://kostazgamedev.itch.io/bunnyhop-2d)
 
 
 [Demo Video]
