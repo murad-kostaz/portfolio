@@ -18,7 +18,7 @@ Jul 2020 - Present
 ### [BUNNYHOP 2D]
 [Android Version - Play Store Link](https://play.google.com/store/apps/details?id=com.KostazStudio.BUNNYHOPv2) 
 
-[HTML/Browser Version - Itch.io Link](https://kostazgamedev.itch.io/bunnyhop-2d)
+[WEBGL/Browser Version - Itch.io Link](https://kostazgamedev.itch.io/bunnyhop-2d)
 
 
 [Demo Video]
@@ -30,7 +30,8 @@ Jul 2020 - Present
 - BUNNYHOP 2D introduces players to an exciting world where precision jumps and thrilling challenges await. In this version, you'll guide a determined bunny through a maze of obstacles, testing your skills and reflexes to the limit. With each carefully executed jump, you'll inch closer to your goal, immersed in an adrenaline-fueled adventure that rewards both precision and perseverance.
 
 ### LOFTY: Skybound Escape
-[HTML/Browser Version - Itch.io Link](https://kostazgamedev.itch.io/lofty-skybound-escape?secret=QNAxYZlLycuQBOhiFxiI1rfAro))
+[Android Version - Play Store Link](https://play.google.com/store/apps/details?id=com.KostazStudio.LOFTY)
+[WEBGL/Browser Version - Itch.io Link](https://kostazgamedev.itch.io/lofty-skybound-escape?secret=QNAxYZlLycuQBOhiFxiI1rfAro)
 
 
 [Demo Video]
