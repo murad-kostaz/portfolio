@@ -31,6 +31,7 @@ Jul 2020 - Present
 
 ### LOFTY: Skybound Escape
 [Android Version - Play Store Link](https://play.google.com/store/apps/details?id=com.KostazStudio.LOFTY)
+
 [WEBGL/Browser Version - Itch.io Link](https://kostazgamedev.itch.io/lofty-skybound-escape?secret=QNAxYZlLycuQBOhiFxiI1rfAro)
 
 
