@@ -40,6 +40,5 @@ Jul 2020 - Present
 
 - Embark on a sky-high adventure in LOFTY: Skybound Escape! Maneuver through a series of obstacles, collect coins, and soar to new heights. Challenge your reflexes in this exciting 2D hypercasual game.
 
-### Battlefield Rivals 3D - Multiplayer
-![image](/assets/img/battlefieldrivals_progress.png)
+### Eggscape 3D - Multiplayer
 - Development in Progress
