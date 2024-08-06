@@ -42,9 +42,9 @@ Jul 2020 - Present
 
 Features: 
 
-🎯 Ad: Google Admob Integrated for Monitization
+🧩 Ad: Google Admob integrated for monetization
 
-🎯 Shop: Unlockable Characters/Skins Selection
+🧩 Shop: Unlockable characters/skins selection
 
 
 ### Eggscape 3D - Multiplayer
