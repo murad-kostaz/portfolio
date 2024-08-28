@@ -50,5 +50,7 @@ Features:
 <iframe width="157" height="280" src="https://www.youtube.com/embed/oMxv4LMkwMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ![](assets/img/eggscape_char1.png)
+<img src="assets/img/eggscape_char1.png" alt="Eggscape Character" width="396" height="308">
+
 
 - Development in Progress
