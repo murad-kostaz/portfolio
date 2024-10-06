@@ -46,8 +46,9 @@ Features:
 
 
 ### 🥚Eggbound 3D - Multiplayer
-[Character-Intro Video]
-<iframe width="157" height="280" src="https://www.youtube.com/embed/oMxv4LMkwMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![4FB44497](https://github.com/user-attachments/assets/9518694a-2bdb-431f-8965-a4072f479ebe)
+![EGGBOUND KICKSTARTER (2)](https://github.com/user-attachments/assets/882d9979-43fb-408c-a92f-6c1cb35f69aa)
+![EGGBOUND KICKSTARTER (3)](https://github.com/user-attachments/assets/dde9768c-aee4-4de7-8015-369802057285)
 
 <img src="assets/img/eggscape_char1.png" alt="Eggscape Character" width="396" height="308">
 
