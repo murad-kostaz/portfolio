@@ -50,7 +50,4 @@ Features:
 ![EGGBOUND KICKSTARTER (2)](https://github.com/user-attachments/assets/882d9979-43fb-408c-a92f-6c1cb35f69aa)
 ![EGGBOUND KICKSTARTER (3)](https://github.com/user-attachments/assets/dde9768c-aee4-4de7-8015-369802057285)
 
-<img src="assets/img/eggscape_char1.png" alt="Eggscape Character" width="396" height="308">
-
-
 - Development in Progress
