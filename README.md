@@ -46,8 +46,13 @@ Features:
 
 
 ### 🥚Eggbound 3D - Multiplayer
+Modeled and animated the egg character and skins from scratch using Blender.
 ![4FB44497](https://github.com/user-attachments/assets/9518694a-2bdb-431f-8965-a4072f479ebe)
-![EGGBOUND KICKSTARTER (2)](https://github.com/user-attachments/assets/882d9979-43fb-408c-a92f-6c1cb35f69aa)
 ![EGGBOUND KICKSTARTER (3)](https://github.com/user-attachments/assets/dde9768c-aee4-4de7-8015-369802057285)
 
+
+### 👻Echoes of the Lost
+A first-person 3D psychological horror game. Players explore a haunted mansion as Hugo, a child searching for his brother, encountering jumpscares, solving puzzles, and unraveling dark secrets. The game blends tense exploration with emotional storytelling as Hugo faces both external dangers and his own inner guilt.
 - Development in Progress
+![](https://github.com/murad-kostaz/portfolio/blob/main/assets/img/steam%20gif1.gif)
+![](https://github.com/murad-kostaz/portfolio/blob/main/assets/img/steam%20gif3.gif)
