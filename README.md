@@ -54,5 +54,6 @@ Modeled and animated the egg character and skins from scratch using Blender.
 ### 👻Echoes of the Lost
 A first-person 3D psychological horror game. Players explore a haunted mansion as Hugo, a child searching for his brother, encountering jumpscares, solving puzzles, and unraveling dark secrets. The game blends tense exploration with emotional storytelling as Hugo faces both external dangers and his own inner guilt.
 - Development in Progress
+
 ![](assets/img/steam_gif1.gif)
 ![](assets/img/steam_gif3.gif)
