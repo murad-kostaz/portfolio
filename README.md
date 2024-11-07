@@ -44,6 +44,12 @@ Features:
 
 🧩 Shop: Unlockable characters/skins selection
 
+### 📏SCALE UP! [GAMEJAM PROJECT]
+[WEBGL/Browser Version - Itch.io Link](https://kostazgamedev.itch.io/scaleup)
+
+![](assets/img/scaleup.png)
+
+SCALE UP! is an exciting, fast-paced platformer where you control your character’s size to survive. This 24-hour project was submitted for GMTK Game Jam 2024 under the theme 'Scale'.
 
 ### 🥚Eggbound 3D - Multiplayer
 Modeled and animated the egg character and skins from scratch using Blender.
