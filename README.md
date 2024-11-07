@@ -54,5 +54,5 @@ Modeled and animated the egg character and skins from scratch using Blender.
 ### 👻Echoes of the Lost
 A first-person 3D psychological horror game. Players explore a haunted mansion as Hugo, a child searching for his brother, encountering jumpscares, solving puzzles, and unraveling dark secrets. The game blends tense exploration with emotional storytelling as Hugo faces both external dangers and his own inner guilt.
 - Development in Progress
-![](https://github.com/murad-kostaz/portfolio/blob/main/assets/img/steam%20gif1.gif)
-![](https://github.com/murad-kostaz/portfolio/blob/main/assets/img/steam%20gif3.gif)
+![EOTL1](https://github.com/murad-kostaz/portfolio/blob/main/assets/img/steam_gif1.gif)
+![EOTL2](https://github.com/murad-kostaz/portfolio/blob/main/assets/img/steam_gif3.gif)
