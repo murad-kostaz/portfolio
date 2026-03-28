@@ -2,6 +2,15 @@
 
 ## Experience
 
+### QA Game Tester-II · Electronic Arts (EA) 
+Jan 2025 - Present
+- Executed full-cycle testing for the Battlefield franchise, ensuring gameplay stability and performance
+- Acted as Primary POC for Single Player mode at Hyderabad studio
+- Managed defect lifecycle using JIRA (logging, tracking, verification)
+- Designed and executed test cases using TestRail for complete feature coverage
+- Conducted extensive regression testing across builds
+- Delivered daily QA reports summarizing test execution and key issues
+- Collaborated with developers, designers, and producers to resolve complex gameplay bugs
 
 ### Indie Game Developer · Self-employed
 Nov 2023 - Present
@@ -16,8 +25,6 @@ Jul 2020 - Present
 ## Game Portfolio
 
 ### 🐇BUNNYHOP 2D
-[Android Version - Play Store Link](https://play.google.com/store/apps/details?id=com.KostazStudio.BUNNYHOPv2) 
-
 [WEBGL/Browser Version - Itch.io Link](https://kostazgamedev.itch.io/bunnyhop-2d)
 
 
@@ -28,8 +35,6 @@ Jul 2020 - Present
 - BUNNYHOP 2D introduces players to an exciting world where precision jumps and thrilling challenges await. In this version, you'll guide a determined bunny through a maze of obstacles, testing your skills and reflexes to the limit. With each carefully executed jump, you'll inch closer to your goal, immersed in an adrenaline-fueled adventure that rewards both precision and perseverance.
 
 ### 🔷LOFTY: Skybound Escape
-[Android Version - Play Store Link](https://play.google.com/store/apps/details?id=com.KostazStudio.LOFTY)
-
 [WEBGL/Browser Version - Itch.io Link](https://kostazgamedev.itch.io/lofty-skybound-escape?secret=QNAxYZlLycuQBOhiFxiI1rfAro)
 
 
